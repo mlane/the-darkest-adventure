@@ -1,0 +1,30 @@
+{
+	x: 3.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "536e2c55",
+		type: "item",
+		items: [{
+			item: "minecraft:purpur_block"
+		}]
+	},
+	{
+		uid: "cd1f2e4c",
+		type: "item",
+		items: [{
+			item: "minecraft:shulker_shell"
+		}]
+	},
+	{
+		uid: "f108cac7",
+		type: "item",
+		items: [{
+			item: "minecraft:end_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "3c7b5b5b",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

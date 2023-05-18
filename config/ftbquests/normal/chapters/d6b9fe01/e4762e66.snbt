@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "e9e3b8fa",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_dragon"
+		}]
+	}],
+	rewards: [{
+		uid: "0646b0b6",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

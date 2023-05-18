@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "a3c48d33",
+		type: "item",
+		items: [{
+			item: "refinedstorage:cable"
+		}]
+	}],
+	rewards: [{
+		uid: "57d94afd",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

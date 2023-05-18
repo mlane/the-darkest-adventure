@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "edb88a66",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 128"
+		}]
+	}],
+	rewards: [{
+		uid: "1e826f3f",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

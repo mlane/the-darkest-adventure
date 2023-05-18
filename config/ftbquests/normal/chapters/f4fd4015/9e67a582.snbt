@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "863e863c",
+		type: "item",
+		items: [{
+			item: "disenchanter:disenchantmenttable"
+		}]
+	}],
+	rewards: [{
+		uid: "ece3c239",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

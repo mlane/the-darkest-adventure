@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "13dab233",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafter"
+		}]
+	}],
+	rewards: [{
+		uid: "7bc37ab1",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

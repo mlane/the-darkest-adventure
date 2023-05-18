@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "47f6f3f8",
+		type: "item",
+		items: [{
+			id: "naturescompass:naturescompass",
+			tag: {}
+		}]
+	}],
+	rewards: [{
+		uid: "b3c16aa1",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

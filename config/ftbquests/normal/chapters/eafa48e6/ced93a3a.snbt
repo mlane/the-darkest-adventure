@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "dc888433",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:psdl"
+		}]
+	}],
+	rewards: [{
+		uid: "d6e00990",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	x: 8.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "ec572c4d",
+		type: "item",
+		items: [{
+			item: "refinedstorage:exporter"
+		}]
+	},
+	{
+		uid: "8615a323",
+		type: "item",
+		items: [{
+			item: "refinedstorage:importer"
+		}]
+	},
+	{
+		uid: "80149175",
+		type: "item",
+		items: [{
+			item: "refinedstorage:external_storage"
+		}]
+	}],
+	rewards: [{
+		uid: "9f3b38e3",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "478fcf8d",
+		type: "item",
+		items: [{
+			item: "minecraft:dragon_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "c786c1ca",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "ca4552a3",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0"
+		}]
+	}],
+	rewards: [{
+		uid: "01d52c88",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

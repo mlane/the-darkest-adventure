@@ -1,0 +1,22 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "afe80ca2",
+		type: "item",
+		items: [{
+			id: "thermalinnovation:saw",
+			tag: {
+				Energy: 600000,
+				Mode: 4
+			},
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3f5883d9",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "35817648",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:abyssalnomicon",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "58541375",
+		type: "ftbmoney:money",
+		ftb_money: 1000000L
+	}]
+}

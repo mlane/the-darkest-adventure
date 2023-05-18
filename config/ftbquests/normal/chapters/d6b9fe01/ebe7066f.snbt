@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "b9f26067",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_arachnid"
+		}]
+	}],
+	rewards: [{
+		uid: "79c0827b",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

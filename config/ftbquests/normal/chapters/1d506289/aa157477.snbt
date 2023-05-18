@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "663b76a1",
+		type: "item",
+		items: [{
+			item: "mmorpg:ore2"
+		}]
+	}],
+	rewards: [{
+		uid: "2f2bb268",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

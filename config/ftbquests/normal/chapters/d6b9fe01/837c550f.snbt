@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "9b1da5fc",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:sturdysummoningstaff"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "25c7095e",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

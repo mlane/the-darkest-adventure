@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 12.0d,
+	tasks: [{
+		uid: "b672d953",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:tank",
+			tag: {
+				RSControl: 0b,
+				Level: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "13cd527a",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

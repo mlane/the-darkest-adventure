@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "c920a485",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:eoa"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "db1002f7",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

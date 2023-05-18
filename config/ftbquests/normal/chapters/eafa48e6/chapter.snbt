@@ -1,0 +1,12 @@
+{
+	title: "AbyssalCraft",
+	icon: {
+		id: "abyssalcraft:necronomicon",
+		tag: {
+			PotEnergy: 0.0f
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

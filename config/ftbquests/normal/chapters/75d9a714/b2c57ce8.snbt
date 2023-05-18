@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "bc9734c3",
+		type: "item",
+		items: [{
+			item: "minecraft:grass"
+		}]
+	}],
+	rewards: [{
+		uid: "ea3dc3f0",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

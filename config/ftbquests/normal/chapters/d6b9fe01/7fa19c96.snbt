@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "09c38848",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_reptile"
+		}]
+	}],
+	rewards: [{
+		uid: "526f3cfa",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

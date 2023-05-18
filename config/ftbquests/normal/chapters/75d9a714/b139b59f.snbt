@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "adf9b095",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:flux"
+		}]
+	}],
+	rewards: [{
+		uid: "d21741cf",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

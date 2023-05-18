@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "7c2e7d56",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_disk 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f64516f0",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

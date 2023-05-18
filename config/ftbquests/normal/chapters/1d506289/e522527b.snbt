@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e58126f0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: []
+			},
+			id: "mmorpg:currency_bag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "06ba9a03",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

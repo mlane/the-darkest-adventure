@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "239a119f",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "liquidcoralium",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eb9c8031",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

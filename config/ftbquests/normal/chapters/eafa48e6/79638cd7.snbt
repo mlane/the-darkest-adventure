@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "e99f9dc9",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:drainstaff 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "126cd226",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "f3476e3b",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_pouch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d32839fd",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

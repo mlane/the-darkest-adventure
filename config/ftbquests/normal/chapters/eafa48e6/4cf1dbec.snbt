@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "cb28217b",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:oc"
+		}]
+	}],
+	rewards: [{
+		uid: "d5de1a3e",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

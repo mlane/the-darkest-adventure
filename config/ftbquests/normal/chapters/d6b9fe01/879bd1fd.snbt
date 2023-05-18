@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "b5f9e262",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:paleo_salad"
+		}]
+	}],
+	rewards: [{
+		uid: "48307c54",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

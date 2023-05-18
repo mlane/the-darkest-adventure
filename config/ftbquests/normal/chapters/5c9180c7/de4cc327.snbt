@@ -1,0 +1,25 @@
+{
+	x: 8.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "70d36126",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_transmitter"
+		}]
+	},
+	{
+		uid: "87c3f38a",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_card"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "be507228",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

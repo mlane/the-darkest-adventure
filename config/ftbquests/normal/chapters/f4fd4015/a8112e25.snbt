@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 8.5d,
+	tasks: [{
+		uid: "53d7b06f",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	}],
+	rewards: [{
+		uid: "b1c27363",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

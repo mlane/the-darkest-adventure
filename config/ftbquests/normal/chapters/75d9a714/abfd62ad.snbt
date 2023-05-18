@@ -1,0 +1,30 @@
+{
+	x: -1.5d,
+	y: 12.0d,
+	tasks: [{
+		uid: "9f0980a8",
+		type: "item",
+		items: [{
+			item: "solarflux:efficiency_upgrade"
+		}]
+	},
+	{
+		uid: "72130fd5",
+		type: "item",
+		items: [{
+			item: "solarflux:transfer_rate_upgrade"
+		}]
+	},
+	{
+		uid: "80e4e4a0",
+		type: "item",
+		items: [{
+			item: "solarflux:capacity_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "58b30dae",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

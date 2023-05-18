@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "e5ab6364",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "23eac6a1",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

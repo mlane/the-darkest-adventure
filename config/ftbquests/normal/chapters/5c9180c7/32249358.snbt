@@ -1,0 +1,16 @@
+{
+	x: 0.5d,
+	y: 6.0d,
+	tasks: [{
+		uid: "a2370708",
+		type: "item",
+		items: [{
+			item: "metalchests:metal_chest 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "c4a554d1",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

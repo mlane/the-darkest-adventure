@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "b8903d1e",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "1123fae9",
+		type: "ftbmoney:money",
+		ftb_money: 100000L
+	}]
+}

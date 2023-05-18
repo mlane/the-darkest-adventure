@@ -1,0 +1,16 @@
+{
+	x: -2.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "d32a0220",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:morb 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "c2b677ca",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

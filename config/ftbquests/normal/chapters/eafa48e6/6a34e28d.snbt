@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "2b866800",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue"
+		}]
+	}],
+	rewards: [{
+		uid: "1c02b607",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

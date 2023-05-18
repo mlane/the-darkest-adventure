@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "28583d19",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_panel_5"
+		}]
+	}],
+	rewards: [{
+		uid: "eca6a661",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

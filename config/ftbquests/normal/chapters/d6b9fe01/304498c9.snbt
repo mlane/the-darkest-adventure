@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "dee23b0d",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:equipment_infuser"
+		}]
+	}],
+	rewards: [{
+		uid: "baf53749",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

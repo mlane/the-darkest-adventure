@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "4c3d2b5d",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_aquatic"
+		}]
+	}],
+	rewards: [{
+		uid: "01fa0960",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

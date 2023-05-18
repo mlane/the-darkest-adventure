@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	can_repeat: true,
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "f4849828",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "0c2a0343",
+		type: "ftbmoney:money",
+		ftb_money: 200000L
+	}]
+}

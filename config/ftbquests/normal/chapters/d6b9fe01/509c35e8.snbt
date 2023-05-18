@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "0997f51d",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:battle_burrito"
+		}]
+	}],
+	rewards: [{
+		uid: "9d343de8",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

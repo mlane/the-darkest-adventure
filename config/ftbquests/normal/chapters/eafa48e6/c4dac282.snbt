@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "1c3dff86",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:transmutationgem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a56390a2",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

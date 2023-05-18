@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "d8562dd4",
+		type: "item",
+		items: [{
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 33s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ed654db6",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

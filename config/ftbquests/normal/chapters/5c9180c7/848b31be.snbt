@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "172c1c5c",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "c6415a8a",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

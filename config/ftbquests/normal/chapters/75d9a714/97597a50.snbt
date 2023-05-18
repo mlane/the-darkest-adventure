@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "9c90b990",
+		type: "item",
+		items: [{
+			item: "rangedpumps:pump"
+		}]
+	}],
+	rewards: [{
+		uid: "5181c3c3",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

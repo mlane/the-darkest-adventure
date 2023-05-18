@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "ca631423",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadkey"
+		}]
+	}],
+	rewards: [{
+		uid: "ce2b4069",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	}]
+}

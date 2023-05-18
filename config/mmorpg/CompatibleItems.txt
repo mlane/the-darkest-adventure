@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "map": {
+    "modid:itemid1": {
+      "itemType": "Sword",
+      "isSalvagable": true,
+      "dropWeight": 1000,
+      "uniqueItemWeight": 0,
+      "normalItemWeight": 80,
+      "runedItemWeight": 20,
+      "randomUniqueUpToTier": 10,
+      "minRarity": 0,
+      "maxRarity": 5,
+      "levelVariance": 0,
+      "uniqueId": "",
+      "uniqueIsRandom": true,
+      "minLevel": 1,
+      "maxLevel": 100,
+      "statsAddedOnlyOnDrop": false,
+      "dropsAsLoot": true
+    },
+    "modid:itemid2": {
+      "itemType": "Sword",
+      "isSalvagable": true,
+      "dropWeight": 1000,
+      "uniqueItemWeight": 0,
+      "normalItemWeight": 80,
+      "runedItemWeight": 20,
+      "randomUniqueUpToTier": 10,
+      "minRarity": 0,
+      "maxRarity": 5,
+      "levelVariance": 0,
+      "uniqueId": "",
+      "uniqueIsRandom": true,
+      "minLevel": 1,
+      "maxLevel": 100,
+      "statsAddedOnlyOnDrop": false,
+      "dropsAsLoot": true
+    }
+  },
+  "list": []
+}

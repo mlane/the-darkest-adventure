@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "a88a26c4",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:bloodsummoningstaff"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e8b830fd",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

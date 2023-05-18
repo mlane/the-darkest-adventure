@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "7e7df34d",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}]
+	}],
+	rewards: [{
+		uid: "6945af8a",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

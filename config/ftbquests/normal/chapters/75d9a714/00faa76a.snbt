@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "396f3ffc",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}],
+	rewards: [{
+		uid: "729d042f",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

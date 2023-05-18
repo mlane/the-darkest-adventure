@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "7a29524c",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadaltarbottom"
+		}]
+	}],
+	rewards: [{
+		uid: "e593f344",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

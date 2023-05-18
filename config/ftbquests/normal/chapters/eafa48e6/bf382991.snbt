@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "34faf517",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:necronomicon_omt",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1bf2d041",
+		type: "ftbmoney:money",
+		ftb_money: 200000L
+	}]
+}

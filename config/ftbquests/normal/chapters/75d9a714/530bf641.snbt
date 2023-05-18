@@ -1,0 +1,22 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "e4e95700",
+		type: "item",
+		items: [{
+			id: "thermalinnovation:drill",
+			tag: {
+				Energy: 600000,
+				Mode: 4
+			},
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f6e913da",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	}]
+}

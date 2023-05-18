@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "3861e006",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 2"
+		}]
+	},
+	{
+		uid: "748e59a8",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "a38bec21",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

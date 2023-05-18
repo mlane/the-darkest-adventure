@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "a52087d7",
+		type: "item",
+		items: [{
+			id: "thermalfoundation:tome_experience",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5905eef4",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

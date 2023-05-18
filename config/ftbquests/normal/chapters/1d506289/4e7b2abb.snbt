@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "2a6d0aef",
+		type: "item",
+		items: [{
+			item: "mmorpg:number_reroll"
+		}]
+	}],
+	rewards: [{
+		uid: "84edbf81",
+		type: "ftbmoney:money",
+		ftb_money: 7500L
+	}]
+}

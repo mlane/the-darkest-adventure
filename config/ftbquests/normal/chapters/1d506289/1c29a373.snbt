@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "7f617615",
+		type: "item",
+		items: [{
+			item: "mmorpg:modify_station"
+		}]
+	}],
+	rewards: [{
+		uid: "f75807e9",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

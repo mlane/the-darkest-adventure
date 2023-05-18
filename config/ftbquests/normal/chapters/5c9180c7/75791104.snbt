@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "a412bc7f",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "633f5f4c",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

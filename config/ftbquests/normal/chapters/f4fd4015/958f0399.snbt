@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "f44c133d",
+		type: "item",
+		items: [{
+			item: "minecraft:book"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "92ee0213",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

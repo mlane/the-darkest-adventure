@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "2262cbfd",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadcloth"
+		}]
+	}],
+	rewards: [{
+		uid: "8d389246",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

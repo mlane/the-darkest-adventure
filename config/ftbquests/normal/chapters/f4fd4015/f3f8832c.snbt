@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "98601cf3",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_eye"
+		}]
+	}],
+	rewards: [{
+		uid: "c5971404",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

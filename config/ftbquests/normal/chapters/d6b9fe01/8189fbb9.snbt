@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "f0c62921",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:equipmentforge_greater"
+		}]
+	}],
+	rewards: [{
+		uid: "88987588",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

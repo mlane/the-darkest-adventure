@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "da43f63c",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxplug"
+		}]
+	},
+	{
+		uid: "c5076409",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxpoint"
+		}]
+	}],
+	rewards: [{
+		uid: "932b746d",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

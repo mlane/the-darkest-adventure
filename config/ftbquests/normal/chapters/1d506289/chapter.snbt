@@ -1,0 +1,12 @@
+{
+	title: "Mine and Slash",
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "mmorpg:tutorial_book"
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

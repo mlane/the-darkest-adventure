@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "31cda659",
+		type: "item",
+		items: [{
+			item: "mmorpg:salvage_station"
+		}]
+	}],
+	rewards: [{
+		uid: "9aa3eee9",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

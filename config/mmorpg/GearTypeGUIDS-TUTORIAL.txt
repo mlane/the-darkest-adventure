@@ -1,0 +1,15 @@
+// THIS FILE IS A TUTORIAL FILE, IT LETS YOU KNOW WHAT ITEM TYPES THERE ARE
+Chest
+Necklace
+Hammer
+Shield
+Staff
+Pants
+Bow
+Axe
+Helmet
+Sword
+Bracelet
+Ring
+Boots
+Charm

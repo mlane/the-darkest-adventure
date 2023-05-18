@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "33af1322",
+		type: "item",
+		items: [{
+			item: "waystones:waystone"
+		}]
+	}],
+	rewards: [{
+		uid: "1899099c",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

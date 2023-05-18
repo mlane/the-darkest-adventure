@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 11.5d,
+	tasks: [{
+		uid: "41f57bd6",
+		type: "item",
+		items: [{
+			item: "minecraft:end_crystal"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "85bd40d0",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

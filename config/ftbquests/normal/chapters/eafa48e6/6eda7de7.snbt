@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "6edefc08",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:sacrificialaltar",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "17ab752b",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

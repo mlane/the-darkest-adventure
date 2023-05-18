@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "7980dc66",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "504ea768",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

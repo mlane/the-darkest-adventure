@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "daa62701",
+		type: "item",
+		items: [{
+			item: "mmorpg:map_device"
+		}]
+	}],
+	rewards: [{
+		uid: "2385b6f3",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

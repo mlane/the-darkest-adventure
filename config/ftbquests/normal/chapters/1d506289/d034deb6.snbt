@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "b6b8030a",
+		type: "item",
+		items: [{
+			item: "mmorpg:small_gear_lootbox_3"
+		}]
+	}],
+	rewards: [{
+		uid: "3914ab04",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

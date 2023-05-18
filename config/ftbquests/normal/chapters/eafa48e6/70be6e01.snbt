@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "ec6b2259",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:gatewaykeyjzh"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "531b1af5",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	}]
+}

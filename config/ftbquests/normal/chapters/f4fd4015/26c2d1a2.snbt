@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "fb4cfc34",
+		type: "item",
+		items: [{
+			item: "comforts:sleeping_bag"
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "9787a720",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

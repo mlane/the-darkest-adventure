@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	tasks: [{
+		uid: "0d6aa192",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:eldritchscale"
+		}]
+	}],
+	rewards: [{
+		uid: "7045453f",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}
