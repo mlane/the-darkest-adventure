@@ -4,6 +4,12 @@
 
 &nbsp;
 
+### **Curseforge:**
+
+- [https://legacy.curseforge.com/minecraft/modpacks/darkest-adventure](https://legacy.curseforge.com/minecraft/modpacks/darkest-adventure)
+
+&nbsp;
+
 ### **Objectives:**
 
 - Complete the questline
