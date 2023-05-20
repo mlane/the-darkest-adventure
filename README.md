@@ -4,6 +4,10 @@
 
 &nbsp;
 
+![The Darkest Adventure](https://github.com/mlane/the-darkest-adventure/assets/13138738/204edd93-51da-41e4-9fdc-3679c160ed87)
+
+&nbsp;
+
 ### **Curseforge:**
 
 - [https://legacy.curseforge.com/minecraft/modpacks/darkest-adventure](https://legacy.curseforge.com/minecraft/modpacks/darkest-adventure)
