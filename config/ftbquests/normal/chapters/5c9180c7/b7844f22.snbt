@@ -9,7 +9,8 @@
 			tag: {
 				material: "oak"
 			}
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "5df04d54",

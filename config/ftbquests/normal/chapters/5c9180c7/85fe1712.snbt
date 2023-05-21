@@ -8,7 +8,7 @@
 			item: "improvedbackpacks:backpack"
 		}],
 		ignore_damage: true,
-		ignore_nbt: 2b
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "93692324",
