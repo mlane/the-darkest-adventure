@@ -1,6 +1,6 @@
 # Embark on a journey with super tough monsters and mayhem.
 
-##### 200+ quests to guide through your journey
+##### 200+ quests to guide you through your journey
 
 &nbsp;
 
