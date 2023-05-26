@@ -1,16 +1,17 @@
 {
-	x: -3.0d,
-	y: 3.0d,
+	x: 0.0d,
+	y: 7.0d,
 	tasks: [{
-		uid: "b4c906fd",
+		uid: "5808a577",
 		type: "item",
 		items: [{
-			item: "fluxnetworks:fluxblock"
+			item: "betterbuilderswands:wandunbreakable"
 		}],
+		ignore_damage: true,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "cfdff96b",
+		uid: "998576bf",
 		type: "ftbmoney:money",
 		ftb_money: 1000L
 	}]

@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			item: "fluxnetworks:fluxcontroller"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "3178fc57",

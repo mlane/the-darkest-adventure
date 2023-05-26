@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			item: "fluxnetworks:gargantuanfluxstorage"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "d5734c23",
