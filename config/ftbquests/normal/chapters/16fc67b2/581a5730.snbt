@@ -6,11 +6,11 @@
 		uid: "b8903d1e",
 		type: "kill",
 		entity: "minecraft:skeleton",
-		value: 1000L
+		value: 500L
 	}],
 	rewards: [{
 		uid: "1123fae9",
 		type: "ftbmoney:money",
-		ftb_money: 100000L
+		ftb_money: 75000L
 	}]
 }

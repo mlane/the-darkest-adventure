@@ -6,11 +6,11 @@
 		uid: "ce605355",
 		type: "kill",
 		entity: "minecraft:spider",
-		value: 1000L
+		value: 500L
 	}],
 	rewards: [{
 		uid: "0eca8795",
 		type: "ftbmoney:money",
-		ftb_money: 100000L
+		ftb_money: 75000L
 	}]
 }

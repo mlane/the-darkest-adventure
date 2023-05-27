@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			item: "danknull:danknull_dock"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "ec1ae66a",

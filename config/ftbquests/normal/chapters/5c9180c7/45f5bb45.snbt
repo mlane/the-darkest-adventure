@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			item: "enderstorage:ender_storage 1 1"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "5ce56cfb",

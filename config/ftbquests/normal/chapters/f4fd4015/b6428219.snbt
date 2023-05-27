@@ -1,0 +1,18 @@
+{
+	title: "Might be a good place to mine",
+	x: 4.5d,
+	y: 5.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "e6269f35",
+		type: "dimension",
+		dim: 28885
+	}],
+	rewards: [{
+		uid: "f3afb5ec",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}
