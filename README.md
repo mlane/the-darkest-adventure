@@ -17,7 +17,7 @@
 ### **Objectives:**
 
 - Complete the questline
-- Level to 200
+- Get to Level 100
 - Obtain end armor
 
 &nbsp;
